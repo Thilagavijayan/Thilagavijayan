@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
   - :1st_place_medal:[Hackerrank](https://www.hackerrank.com/thilagavathivij1)
   - :office: [LinkedIn](https://www.linkedin.com/in/thilagavathi-vijayan-a436b2217/)
 <!--   - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14) -->
-  - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thilagavijayan)](https://github.com/Thilagavijayan/github-readme-stats)
+ 
