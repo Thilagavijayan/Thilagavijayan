@@ -5,14 +5,12 @@ Thilagavijayan/Thilagavijayan is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-[![MasterHead](https://www.american.edu/spa/data-science/images/datascience-hero.jpg)]
+![MasterHead](https://www.american.edu/spa/data-science/images/datascience-hero.jpg)
 <h1 align="center">Hi 👋, This is Thilagavathi Vijayan</h1>
 <h3 align="center">I'm an Eloquent and Data Science Enthusiast</h3>
 <img align= "right" alt = "Coding" width = "400" src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilagavijayan" alt="thilagavijayan" /></a> </p>
-
-- 🌱 I’m addicted to learning **and growing everyday**
+- 🌱 I’m addicted to learning and growing everyday
 
 - 📝 I regularly write articles on [Geeksforgeeks](Geeksforgeeks)
 
