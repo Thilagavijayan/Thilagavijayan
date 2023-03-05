@@ -61,9 +61,9 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" width="96">
       <a href="#Thilagavijayan">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Django" />
       </a>
-      <br>Django
+      <br>BootStrap
     </td>
 
 
