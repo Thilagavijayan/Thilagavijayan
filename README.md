@@ -148,6 +148,12 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>PowerBI
     </td>
+    <td align="center" width="96">
+      <a href="#Thilagavijayan">
+     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"/>
+      </a>
+      <br>SeaBorn
+    </td>
   </tr>
 </table>
 
