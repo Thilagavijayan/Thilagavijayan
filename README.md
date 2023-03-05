@@ -149,8 +149,26 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Selenium
     </td>
-    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVOEikUePViF5BUb8L5mxafmYfk0La9O1hw&usqp=CAU"/>
-
+    <td align="center" width="96">
+      <a href="#Thilagavijayan">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfzC9BWEfqD1gJaGulcI5d3ziyQePenHfrZA&usqp=CAU" alt="PowerBI"/>
+      </a>
+      <br>PowerBI
+    </td>
+    <td align="center" width="96">
+      <a href="#Thilagavijayan">
+      <img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" alt="OpenCV"/>
+      </a>
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <a href="#Thilagavijayan">
+      <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="Tableau"/>
+      </a>
+      <br>Tableau
+    </td>
+  </tr>
+    
 
 
  
