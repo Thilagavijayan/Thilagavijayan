@@ -154,6 +154,7 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>SeaBorn
     </td>
+    <td align="center" width="96">
     <a href="#Thilagavijayan">
       <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="Tableau"/>
       </a>
