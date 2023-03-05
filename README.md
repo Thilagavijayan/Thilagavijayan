@@ -137,6 +137,19 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Scikit-Learn
     </td>
+    <td align="center" width="96">
+      <a href="#Thilagavijayan">
+     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"/>
+      </a>
+      <br>SeaBorn
+    </td>
+    <td align="center" width="96">
+      <a href="#Thilagavijayan">
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium"/>
+      </a>
+      <br>Selenium
+    </td>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
 
 
 
