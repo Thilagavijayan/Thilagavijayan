@@ -32,11 +32,11 @@ You can click the Preview link to take a look at your changes.
  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Thilagavijayan&" alt="Thilagavijayan" width = "400" /></p>
  
  <div id="views" width = "300">
+ 
   - 📫 Ambitious Student with a passion in technology
-- 📝 Technical Writer on [Geeksforgeeks](Geeksforgeeks)
   - 📝 Technical Writer on [Geeksforgeeks](Geeksforgeeks)
-
   - 🌱 Addicted to learning and growing everyday
+  
 </div>
 
 
