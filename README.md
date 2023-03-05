@@ -4,6 +4,9 @@
 Thilagavijayan/Thilagavijayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div id="header" align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="100"/>
+</div>
 
 <!-- ![MasterHead](https://www.american.edu/spa/data-science/images/datascience-hero.jpg) -->
 <h1 align="center">Hi 👋, This is Thilagavathi Vijayan</h1>
