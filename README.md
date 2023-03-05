@@ -137,7 +137,7 @@ You can click the Preview link to take a look at your changes.
       <br>Scikit-Learn
     </td>
 
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#Thilagavijayan">
       <img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" alt="OpenCV"/>
       </a>
@@ -148,9 +148,28 @@ You can click the Preview link to take a look at your changes.
       <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="Tableau"/>
       </a>
       <br>Tableau
-    </td>
+    </td> -->
 </tr>
 </table>
+ <td align="center" width="96">
+      <a href="#Thilagavijayan">
+     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"/>
+      </a>
+      <br>SeaBorn
+    </td>
+    
+    <td align="center" width="96">
+      <a href="#Thilagavijayan">
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium"/>
+      </a>
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+      <a href="#Thilagavijayan">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfzC9BWEfqD1gJaGulcI5d3ziyQePenHfrZA&usqp=CAU" alt="PowerBI"/>
+      </a>
+      <br>PowerBI
+    </td> -->
     
 
 
