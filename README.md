@@ -7,11 +7,24 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400"/>
 </div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/thilagavathi-vijayan-a436b2217/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/thilagavathivij1">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/thilagavathimfj0/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=your-github-Thilagavijayan&style=flat-square&color=blue" alt=""/>
+
 
 <!-- ![MasterHead](https://www.american.edu/spa/data-science/images/datascience-hero.jpg) -->
 <h1 align="center">Hi 👋, This is Thilagavathi Vijayan</h1>
 <h3 align="center">I'm an Eloquent and Data Science Enthusiast</h3>
-<img align= "right" alt = "Coding" width = "400" src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<!-- <img align= "right" alt = "Coding" width = "400" src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"> -->
 
 - 🌱 I’m addicted to learning and growing everyday
 
