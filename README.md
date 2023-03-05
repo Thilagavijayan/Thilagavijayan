@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Languages and Tools</h3>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilagavijayan&show_icons=true&locale=en&layout=compact" alt="thilagavijayan" /></p> -->
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="96">
       <a href="#Thilagavijayan">
@@ -155,6 +155,8 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>PowerBI
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#Thilagavijayan">
       <img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" alt="OpenCV"/>
@@ -168,6 +170,7 @@ You can click the Preview link to take a look at your changes.
       <br>Tableau
     </td>
   </tr>
+  </table>
     
 
 
