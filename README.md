@@ -29,9 +29,9 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Hi 👋, This is Thilagavathi Vijayan</h1>
 <h6 align="center">Eloquent and Data Science Enthusiast</h3>
 <!-- <img align= "right" alt = "Coding" width = "400" src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"> -->
+ <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Thilagavijayan&" alt="Thilagavijayan" /></p>
 
 - 📫 Ambitious Student with a passion in technology
-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Thilagavijayan&" alt="Thilagavijayan" /></p>
 
 - 📝 Technical Writer on [Geeksforgeeks](Geeksforgeeks)
 
