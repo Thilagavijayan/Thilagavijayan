@@ -149,7 +149,7 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Selenium
     </td>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVOEikUePViF5BUb8L5mxafmYfk0La9O1hw&usqp=CAU"/>
 
 
 
