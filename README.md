@@ -48,19 +48,19 @@ You can click the Preview link to take a look at your changes.
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#karthik242002">
+      <a href="#Thilagavijayan">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#vmmuthu31">
+      <a href="#Thilagavijayan">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#vmmuthu31">
+      <a href="#Thilagavijayan">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
