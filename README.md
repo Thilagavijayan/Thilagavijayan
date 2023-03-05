@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilagavijayan&show_icons=true&locale=en&layout=compact" alt="thilagavijayan" /></p> -->
 <br>
-<table align="left">
+<!-- <table align="left">
   <tr>
     <td align="center" width="96">
       <a href="#Thilagavijayan">
@@ -169,7 +169,7 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
   </table>
-    
+     -->
 
 
  
