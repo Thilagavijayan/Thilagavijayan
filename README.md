@@ -137,7 +137,7 @@ You can click the Preview link to take a look at your changes.
       <br>Scikit-Learn
     </td>
 
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#Thilagavijayan">
      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"/>
       </a>
@@ -155,7 +155,7 @@ You can click the Preview link to take a look at your changes.
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfzC9BWEfqD1gJaGulcI5d3ziyQePenHfrZA&usqp=CAU" alt="PowerBI"/>
       </a>
       <br>PowerBI
-    </td>
+    </td> -->
 </tr>
 <tr>
     <td align="center" width="96">
