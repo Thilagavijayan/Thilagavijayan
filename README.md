@@ -112,8 +112,6 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Git
     </td>
-    </tr>
-  <tr>
     
     <td align="center" width="96">
       <a href="#Thilagavijayan">
