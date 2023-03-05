@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 <h3 align="left">Languages and Tools</h3>
-<
+
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilagavijayan&show_icons=true&locale=en&layout=compact" alt="thilagavijayan" /></p> -->
 <table align="center">
   <tr>
@@ -79,6 +79,8 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Cypress
     </td>
+  </tr>
+    <tr>
        <td align="center" width="96">
       <a href="#Thilagavijayan">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
@@ -97,9 +99,7 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Figma
     </td>
-  </tr>
-  <tr>
-             <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#Thilagavijayan">
        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"/>
       </a>
