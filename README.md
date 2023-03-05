@@ -98,8 +98,6 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Figma
     </td>
-</tr>
-<tr>
     <td align="center" width="96">
       <a href="#Thilagavijayan">
        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"/>
@@ -112,6 +110,8 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Git
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#Thilagavijayan">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/>
@@ -153,6 +153,17 @@ You can click the Preview link to take a look at your changes.
      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"/>
       </a>
       <br>SeaBorn
+    </td>
+    <a href="#Thilagavijayan">
+      <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="Tableau"/>
+      </a>
+      <br>Tableau
+    </td>
+    <td align="center" width="96">
+      <a href="#Thilagavijayan">
+      <img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" alt="OpenCV"/>
+      </a>
+      <br>OpenCV
     </td>
   </tr>
 </table>
