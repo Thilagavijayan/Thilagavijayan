@@ -42,8 +42,8 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilagavijayan&show_icons=true&locale=en&layout=compact" alt="thilagavijayan" /></p> -->
 <br>
-<table>
-  <tr>
+<table align = "left">
+<tr>
     <td align="center" width="96">
       <a href="#Thilagavijayan">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
@@ -170,8 +170,8 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Tableau
     </td>
-  </tr>
-  </table>
+</tr>
+</table>
     
 
 
