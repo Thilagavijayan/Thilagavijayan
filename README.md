@@ -17,8 +17,12 @@ You can click the Preview link to take a look at your changes.
   <a href="https://auth.geeksforgeeks.org/user/thilagavathimfj0/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-Thilagavijayan&style=flat-square&color=blue" alt=""/>
+ 
 </div>
+<div id="views" align="center">
+   <img src="https://komarev.com/ghpvc/?username=your-github-Thilagavijayan&style=flat-square&color=blue" alt=""/>
+ </div>
+
 
 <h1>
   hey there
