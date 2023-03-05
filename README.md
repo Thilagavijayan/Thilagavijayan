@@ -104,14 +104,14 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Flask
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96"> 
       <a href="#Thilagavijayan">
        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
       </a>
       <br>Git
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#Thilagavijayan">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/>
