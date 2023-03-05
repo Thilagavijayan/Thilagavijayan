@@ -23,15 +23,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div id="views" align="center">
    <img src="https://komarev.com/ghpvc/?username=your-github-Thilagavijayan&style=flat-square&color=blue" alt=""/>
- <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
-### :woman_technologist: About Me :
-
-
-
 
 <!-- ![MasterHead](https://www.american.edu/spa/data-science/images/datascience-hero.jpg) -->
 <h1 align="center">Hi 👋, This is Thilagavathi Vijayan</h1>
