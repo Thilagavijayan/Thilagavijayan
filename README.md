@@ -5,7 +5,7 @@ Thilagavijayan/Thilagavijayan is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/thilagavathi-vijayan-a436b2217/">
@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://auth.geeksforgeeks.org/user/thilagavathimfj0/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-Thilagavijayan&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-Thilagavijayan&style=flat-square&color=blue" alt=""/>
 
 
 <!-- ![MasterHead](https://www.american.edu/spa/data-science/images/datascience-hero.jpg) -->
