@@ -79,8 +79,8 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Cypress
     </td>
-  </tr>
-    <tr>
+<!--   </tr>
+    <tr> -->
        <td align="center" width="96">
       <a href="#Thilagavijayan">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
@@ -155,8 +155,8 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>PowerBI
     </td>
-  </tr>
-  <tr>
+<!--   </tr>
+  <tr> -->
     <td align="center" width="96">
       <a href="#Thilagavijayan">
       <img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" alt="OpenCV"/>
