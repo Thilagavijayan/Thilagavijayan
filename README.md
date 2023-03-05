@@ -112,14 +112,16 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Git
     </td>
+    </tr>
+  <tr>
+    
     <td align="center" width="96">
       <a href="#Thilagavijayan">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/>
       </a>
       <br>HTML
     </td>
-  </tr>
-  <tr>
+  
     <td align="center" width="96">
       <a href="#Thilagavijayan">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" />
