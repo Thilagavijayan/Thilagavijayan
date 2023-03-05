@@ -97,6 +97,8 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Figma
     </td>
+  </tr>
+  <tr>
              <td align="center" width="96">
       <a href="#Thilagavijayan">
        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"/>
