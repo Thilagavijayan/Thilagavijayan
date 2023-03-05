@@ -82,19 +82,19 @@ You can click the Preview link to take a look at your changes.
     </td>
 <!--   </tr>
     <tr> -->
-       <td align="center" width="96">
+      <td align="center" width="96">
       <a href="#Thilagavijayan">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
       </a>
       <br>DotNet
     </td>
-         <td align="center" width="96">
+      <td align="center" width="96">
       <a href="#Thilagavijayan">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/>
       </a>
       <br>CSS
     </td>
-           <td align="center" width="96">
+      <td align="center" width="96">
       <a href="#Thilagavijayan">
        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/>
       </a>
