@@ -107,33 +107,35 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" width="96">
       <a href="#Thilagavijayan">
-       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"/>
+       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
       </a>
-      <br>Flask
+      <br>Git
     </td>
     <td align="center" width="96">
       <a href="#Thilagavijayan">
-       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"/>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/>
       </a>
-      <br>Flask
+      <br>HTML
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#Thilagavijayan">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" />
+      </a>
+      <br>MYSQL
     </td>
     <td align="center" width="96">
       <a href="#Thilagavijayan">
-       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"/>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas"/>
       </a>
-      <br>Flask
+      <br>Pandas
     </td>
     <td align="center" width="96">
       <a href="#Thilagavijayan">
-       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" />
       </a>
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <a href="#Thilagavijayan">
-       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"/>
-      </a>
-      <br>Flask
+      <br>Scikit-Learn
     </td>
 
 
