@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
  
  <div id="views" width = "300">
   - 📫 Ambitious Student with a passion in technology
-
+- 📝 Technical Writer on [Geeksforgeeks](Geeksforgeeks)
   - 📝 Technical Writer on [Geeksforgeeks](Geeksforgeeks)
 
   - 🌱 Addicted to learning and growing everyday
