@@ -5,7 +5,7 @@ Thilagavijayan/Thilagavijayan is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="300"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/thilagavathi-vijayan-a436b2217/">
@@ -26,8 +26,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <!-- ![MasterHead](https://www.american.edu/spa/data-science/images/datascience-hero.jpg) -->
-<h1 align="center">Hi 👋, This is Thilagavathi Vijayan</h1>
-<h3 align="center">Eloquent and Data Science Enthusiast</h3>
+<h3 align="center">Hi 👋, This is Thilagavathi Vijayan</h1>
+<h6 align="center">Eloquent and Data Science Enthusiast</h3>
 <!-- <img align= "right" alt = "Coding" width = "400" src= "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"> -->
 
 - 🌱 I’m currently a 3rd year student pursuing ComputerScience Engineering
