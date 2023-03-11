@@ -44,61 +44,61 @@ You can click the Preview link to take a look at your changes.
 <br>
 <table align = "left">
 <tr>
-    <td align="center" width="96">
+    <td align="center" width="85">
       <a href="#Thilagavijayan">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="85">
       <a href="#Thilagavijayan">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
+    <td align="center" width="85">
       <a href="#Thilagavijayan">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="BootStrap" />
       </a>
       <br>BootStrap
     </td>
-    <td align="center" width="96">
+    <td align="center" width="85">
       <a href="#Thilagavijayan">
         <img src="https://www.chartjs.org/media/logo-title.svg" width="48" height="48" alt="ChartJS" />
       </a>
       <br>ChartJS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="85">
       <a href="#Thilagavijayan">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="Csharp" />
       </a>
       <br>C#
     </td>
-     <td align="center" width="96">
+     <td align="center" width="85">
       <a href="#Thilagavijayan">
        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress"/>
       </a>
       <br>Cypress
     </td>
-      <td align="center" width="96">
+      <td align="center" width="85">
       <a href="#Thilagavijayan">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
       </a>
       <br>DotNet
     </td>
-      <td align="center" width="96">
+      <td align="center" width="85">
       <a href="#Thilagavijayan">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/>
       </a>
       <br>CSS
     </td>
-      <td align="center" width="96">
+      <td align="center" width="85">
       <a href="#Thilagavijayan">
        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"/>
       </a>
       <br>Figma
     </td>
-    <td align="center" width="96">
+    <td align="center" width="85">
       <a href="#Thilagavijayan">
        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"/>
       </a>
@@ -106,61 +106,61 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
+    <td align="center" width="85"> 
       <a href="#Thilagavijayan">
        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
+    <td align="center" width="85">
       <a href="#Thilagavijayan">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/>
       </a>
       <br>HTML
     </td>   
-    <td align="center" width="96">
+    <td align="center" width="85">
       <a href="#Thilagavijayan">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" />
       </a>
       <br>MYSQL
     </td>
-    <td align="center" width="96">
+    <td align="center" width="85">
       <a href="#Thilagavijayan">
        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas"/>
       </a>
       <br>Pandas
     </td>
-    <td align="center" width="96">
+    <td align="center" width="85">
       <a href="#Thilagavijayan">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" />
       </a>
       <br>Scikit-Learn
     </td>
-    <td align="center" width="96">
+    <td align="center" width="85">
       <a href="#Thilagavijayan">
       <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium"/>
       </a>
       <br>Selenium
     </td>
-    <td align="center" width="96">
+    <td align="center" width="85">
       <a href="#Thilagavijayan">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfzC9BWEfqD1gJaGulcI5d3ziyQePenHfrZA&usqp=CAU" alt="PowerBI"/>
       </a>
       <br>PowerBI
     </td>
-    <td align="center" width="96">
+    <td align="center" width="85">
       <a href="#Thilagavijayan">
      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"/>
       </a>
       <br>SeaBorn
     </td>
-    <td align="center" width="96">
+    <td align="center" width="85">
     <a href="#Thilagavijayan">
       <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="Tableau"/>
       </a>
       <br>Tableau
     </td>
-    <td align="center" width="96">
+    <td align="center" width="85">
       <a href="#Thilagavijayan">
       <img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" alt="OpenCV"/>
       </a>
