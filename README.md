@@ -168,7 +168,6 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
   <tr>
-  
     <td align="center" width="85">
       <a href="#Thilagavijayan">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qvov3Fy5FKt44_Y-rynYY8liqZ4YRg9jrg&usqp=CAU" alt="React"/>
@@ -177,7 +176,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" width="85">
       <a href="#Thilagavijayan">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwMFhBVEJ1aneKXTFNeMKIfep5vNp8fV4PbQ&usqp=CAU" alt="Postgressql"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwMFhBVEJ1aneKXTFNeMKIfep5vNp8fV4PbQ&usqp=CAU" alt="Postgresql"/>
       </a>
       <br>Postgresql
     </td>
@@ -187,9 +186,7 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>Javascript
     </td>
-  </tr>
-    
-    
+  </tr>    
 </table>
 
 
