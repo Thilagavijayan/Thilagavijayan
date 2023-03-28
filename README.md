@@ -188,12 +188,6 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" width="85">
       <a href="#Thilagavijayan">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxIRwZlb381uu1wOKTXnmuoSAHCku58m_lsg&usqp=CAU" alt="Java"/>
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="85">
-      <a href="#Thilagavijayan">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2HauMpXELrnxOEgTAQHL3SgK_7WG7cSeFMg&usqp=CAU" alt="Django"/>
       </a>
       <br>Django
