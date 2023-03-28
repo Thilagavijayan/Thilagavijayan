@@ -167,6 +167,28 @@ You can click the Preview link to take a look at your changes.
       <br>OpenCV
     </td>
   </tr>
+  
+    <td align="center" width="85">
+      <a href="#Thilagavijayan">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qvov3Fy5FKt44_Y-rynYY8liqZ4YRg9jrg&usqp=CAU" alt="React"/>
+      </a>
+      <br>Reactjs
+    </td>
+    <td align="center" width="85">
+      <a href="#Thilagavijayan">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwMFhBVEJ1aneKXTFNeMKIfep5vNp8fV4PbQ&usqp=CAU" alt="Postgressql"/>
+      </a>
+      <br>Postgresql
+    </td>
+    <td align="center" width="85">
+      <a href="#Thilagavijayan">
+      <img src="https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" alt="OpenCV"/>
+      </a>
+      <br>Javascript
+    </td>
+  </tr>
+    
+    
 </table>
 
 
