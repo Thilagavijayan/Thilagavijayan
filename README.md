@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/thilagavathi-vijayan-a436b2217/">
+<!--   <a href="https://www.linkedin.com/in/thilagavathi-vijayan-a436b2217/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> -->
   <a href="https://www.hackerrank.com/thilagavathivij1">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
